@@ -27,11 +27,11 @@ ul {
   text-align: right; 
 }
 
-.matrix-section img {
+.matrix-section__image {
   width: 100%;
 }
 
-.matrix-section .more_inf {
+.matrix-section__question {
   font-family: fantasy, cursive;
 }
 
