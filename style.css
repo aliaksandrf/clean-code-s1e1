@@ -141,7 +141,7 @@ input#new-task {
   margin: 0 10px;
 }
 
-.list-item > label {
+.list-item > .label {
   padding-left: 10px;
   box-sizing: border-box;
   font-size: 18px;
@@ -163,7 +163,7 @@ input#new-task {
 }
 
 /* Completed */
-#completed-tasks label {
+#completed-tasks .label {
   text-decoration: line-through;
   color: #888;
 }
@@ -178,6 +178,6 @@ input#new-task {
   width: 224px;
 }
 
-.editMode label {
+.editMode .label {
   display: none;
 }
