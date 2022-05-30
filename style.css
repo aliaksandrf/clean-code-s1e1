@@ -20,11 +20,6 @@ button{
   outline: none;
 }
 
-
-
-
-
-
 .matrix-section {
   width: 500px;
   margin: 0 auto;
@@ -60,7 +55,7 @@ button{
   flex-grow: 1;
 }
 
-.task-row-wrapper {
+.add-item__wrapper{
   display: flex;
 }
 
@@ -108,7 +103,7 @@ input[type="text"] {
   font-family: Lato, sans-serif;
   color: #888;
 }
-
+ 
 input[type="text"]:focus {
   color: #333;
 }
@@ -133,7 +128,6 @@ input#new-task {
   overflow: hidden;
   padding: 20px 0;
   border-bottom: 1px solid #eee;
-
   display: flex;
   justify-content: space-between;
   align-items: center;
