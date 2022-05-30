@@ -83,8 +83,7 @@ button{
 }
 
 /* Heading */
-.title,
-label[for="new-task"] {
+.title {
   color: #333;
   font-weight: 700;
   font-size: 15px;
@@ -93,6 +92,9 @@ label[for="new-task"] {
   margin: 0;
   text-transform: uppercase;
 }
+
+
+
 
 input[type="text"] {
   margin: 0;
@@ -112,6 +114,11 @@ input[type="text"]:focus {
 }
 
 /* New Task */
+
+.add-item__title{
+  margin: 0 0 20px;
+}
+
 label[for="new-task"] {
   display: block;
   margin: 0 0 20px;
