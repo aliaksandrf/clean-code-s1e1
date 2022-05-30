@@ -137,18 +137,18 @@ input#new-task {
   vertical-align: middle;
 }
 
-.list-item > input[type="checkbox"] {
+input[type="checkbox"] {
   margin: 0 10px;
 }
 
-.list-item > .label {
+.label {
   padding-left: 10px;
   box-sizing: border-box;
   font-size: 18px;
   width: 226px;
 }
 
-.list-item > input[type="text"] {
+input[type="text"] {
   width: 226px;
 }
 
