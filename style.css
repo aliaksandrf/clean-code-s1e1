@@ -169,11 +169,11 @@ input[type="checkbox"] {
 }
 
 /* Edit Task */
-.list-item input[type=text] {
+.list-item .input-text {
   display: none;
 }
 
-.editMode input[type=text] {
+.editMode .input-text {
   display: inline-block;
   width: 224px;
 }
