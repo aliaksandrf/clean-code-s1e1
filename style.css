@@ -137,7 +137,7 @@ button{
   vertical-align: middle;
 }
 
-input[type="checkbox"] {
+.item-checkbox{
   margin: 0 10px;
 }
 
