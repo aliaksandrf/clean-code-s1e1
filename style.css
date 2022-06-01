@@ -37,9 +37,9 @@ button{
 
 @media (max-width: 768px) {
 
-.matrix-section { 
-  text-align: center;
-}
+  .matrix-section { 
+    text-align: center;
+  }
 
 }
 
@@ -173,11 +173,11 @@ button{
   display: none;
 }
 
-.editMode .input-text {
+.edit-mode .input-text {
   display: inline-block;
   width: 224px;
 }
 
-.editMode .label {
+.edit-mode .label {
   display: none;
 }
